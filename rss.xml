@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CopperCX]]></title>
         <description><![CDATA[CopperCX]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coppercx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:46:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 01:37:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coppercx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We are helping our clients understand their data and unlock it's value across the marketing ecosystem: online, offline, across devices and channels to deliver highly effective results]]></title>
+            <description><![CDATA[<h1>We are helping our clients understand their data and unlock it's value across the marketing ecosystem: online, offline, across devices and channels to deliver highly effective results</h1>]]></description>
+            <link>https://thegrid.ai/coppercx/we-are-helping-our-clients-understand-their-data-and-unlock/index.html</link>
+            <guid isPermaLink="false">e0bd226f-ba54-476e-bd5d-629b05a2450a</guid>
+            <pubDate>Fri, 25 Mar 2016 01:36:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Partners</p>]]></description>
-            <link>undefined0c053824-65ca-4aef-8a6e-d67ac4735893/index.html</link>
+            <link>https://thegrid.ai/coppercx/0c053824-65ca-4aef-8a6e-d67ac4735893/index.html</link>
             <guid isPermaLink="false">0c053824-65ca-4aef-8a6e-d67ac4735893</guid>
             <pubDate>Wed, 10 Feb 2016 16:44:59 GMT</pubDate>
         </item>
